@@ -74,18 +74,4 @@ public class BooksTest extends BaseClass{
 		
 		switchToWindowByURL(driver, "https://flipkart.com");
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	}
